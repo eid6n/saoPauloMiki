@@ -29,7 +29,7 @@ header{
     padding: 10px;
 }
 .kanji{
-    display: flex;
+    display: inline-flex;
     justify-content: center;
     align-items: center;
     width: 1px;
@@ -42,7 +42,7 @@ h2{
     font-family: var(--fonte1);
     font-size: 30px;
     text-align: center;
-   
+
 }
 p{
     font-size: 20px;
